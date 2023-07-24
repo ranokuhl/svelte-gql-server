@@ -1,0 +1,20 @@
+/.idea
+/.vscode
+**/node_modules
+node_modules
+*.log
+.rts2_cache*
+.husky
+dist/
+build/
+coverage/
+package-lock.json
+.DS_Store
+.next
+
+packages/*/LICENSE
+exchanges/*/LICENSE
+
+# TODO: Figure out how to remove these:
+tmp/
+dist/
